@@ -9,7 +9,7 @@
 * [22,27,16,2,18,6] dizisinde en küçük elemanı bulup 1. sıraya yerleştiriyoruz ve 1. sıradaki sayı ile yer değiştiriyoruz.Böylece [2,27,16,22,18,6] sayı dizisini elde etmiş bulunuyoruz.
 
 * [2,27,16,22,18,6] dizisinde 2. en küçük sayıyı bulup 2. sıradaki sayı ile yer değiştiriyoruz. Böylece [2,6,16,22,18,27] diziyi elde ederiz.
-* [2,6,16,22,18,27] sayı dizisinde 3. sıradaki sayımız doğru yerde olduğu için işlem yapmadan 4.sıraya geçeriz.Böylece sayı dizimiz [2,6,16,18,22,27] olur ve işlemi başarılı şekilde bitirmiş oluruz.
+* [2,6,16,22,18,27] sayı dizisinde 3. sıradaki sayımız doğru yerde olduğu için işlem yapmadan 4.sıraya geçeriz.Böylece sayı dizimiz [2,6,16,18,22,27] olur ve işlemi başarılı şekilde bitirmiş oluyoruz.
 
 ---
 ## Big-O gösterimini yazınız.
